@@ -1,0 +1,8 @@
+discord
+discord.ext
+os
+asyncio
+logging
+pathlib
+json
+platform
