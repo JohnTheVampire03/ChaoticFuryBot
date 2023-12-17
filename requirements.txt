@@ -1,5 +1,2 @@
 discord
-asyncio
 pathlib
-json
-platform
